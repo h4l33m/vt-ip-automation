@@ -32,7 +32,7 @@ This Python script checks IP reputation using the VirusTotal API and saves resul
 
 
 
-git clone https://github.com/YOUR\_USERNAME/vt-ip-automation.git
+git clone https://github.com/h4l33m/vt-ip-automation.git
 
 cd vt-ip-automation
 
